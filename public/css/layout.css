@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+.row {
+    border-top: -14px;
+}
+
+.widget-title {
+    margin-bottom:  10px;
+}
+
+span {
+    padding:  0 8px;
+    font-size:  20px;
+    margin:0 auto;
+}
+body{
+    background: #FFD;
+
+}
+.header{
+    margin-top: 20px;
+}
+.header a{
+    text-decoration: none;
+}
+.fas.fa-home{
+    font-size: 20px;
+    float: left;
+    line-height: 34px;
+    padding-right: 8px;
+}
+.media{
+    height: 135px;
+    overflow: hidden;
+}
+
+.col-md-4.widget {}
